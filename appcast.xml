@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sketch Stack Layout Hacks</title>
+    <item>
+      <title>v1.0.0</title>
+      <description>Initial stable release: A set of scripts to quickly optimize and manage Stack Layouts in Sketch app.</description>
+      <enclosure 
+        url="#" 
+        sparkle:version="1.1.0" 
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

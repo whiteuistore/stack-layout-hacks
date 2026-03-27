@@ -40,7 +40,7 @@ Coming Soon
 
 ## 🛠 Installation
 
-1.  [Download the latest release](https://github.com/whiteuistore/sketch-stack-layout-hacks/releases/latest) of the plugin.
+1.  [Download the latest release](https://github.com/whiteuistore/stack-layout-hacks/releases) of the plugin.
 2.  Double-click `stack-layout-hacks.sketchplugin` to install.
 
 ---

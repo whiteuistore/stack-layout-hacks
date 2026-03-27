@@ -1,0 +1,109 @@
+{
+  "name": "Stack Layout Hacks",
+  "identifier": "com.whiteuistore.stack-layout-hacks",
+  "version": "0.1.1",
+  "icon": "icon.png",
+  "description": "Various scripts to easily manage and change Stacks properties in the Sketch file",
+  "author": "WhiteUI.Store",
+  "homepage": "https://www.whiteui.store/",
+  "commands": [
+    {
+      "name": "Copy Stack Properties",
+      "identifier": "run-copy-stack-prop",
+      "script": "./stacks-copy-prop.js"
+    },
+    {
+      "name": "Paste Stack Properties",
+      "identifier": "run-paste-stack-prop",
+      "script": "./stacks-paste-prop.js"
+    },
+    {
+      "name": "Enable Clip Content",
+      "identifier": "run-enable-clip-content",
+      "script": "./enable-clip-content.js"
+    },
+    {
+      "name": "Disable Clip Content",
+      "identifier": "run-disable-clip-content",
+      "script": "./disable-clip-content.js"
+    },
+    {
+      "name": "Set the Stack Width to Fill (only for child elements)",
+      "identifier": "run-stacks-width-fill",
+      "script": "./stacks-width-to-fill.js"
+    },
+    {
+      "name": "Set the Stack Width to Fit (for all elements)",
+      "identifier": "run-stacks-width-fit",
+      "script": "./stacks-width-to-fit.js"
+    },
+    {
+      "name": "Set the Stack Width to Fixed (for all elements)",
+      "identifier": "run-stacks-width-fixed",
+      "script": "./stacks-width-to-fixed.js"
+    },
+    {
+      "name": "Set the Stack Height to Relative (for all elements)",
+      "identifier": "run-stacks-height-relative",
+      "script": "./stacks-height-to-relative.js"
+    },
+    {
+      "name": "Set the Stack Height to Fit (for all elements)",
+      "identifier": "run-stacks-height-fit",
+      "script": "./stacks-height-to-fit.js"
+    },
+    {
+      "name": "Set the Stack Height to Fixed (for all elements)",
+      "identifier": "run-stacks-height-fixed",
+      "script": "./stacks-height-to-fixed.js"
+    },
+    {
+      "name": "Create Separate Horizontal Stacks (for multiple objects)",
+      "identifier": "run-separate-hor-stacks",
+      "script": "./separate-hor-stacks.js"
+    },
+    {
+      "name": "Create Separate Vertical Stacks (for multiple objects)",
+      "identifier": "run-separate-ver-stacks",
+      "script": "./separate-ver-stacks.js"
+    },
+    {
+      "name": "Visit WhiteUI.Store",
+      "identifier": "visit-store",
+      "script": "visit-store.js",
+      "handler": "onRun"
+    },
+    {
+      "name": "Donate",
+      "identifier": "donate-link",
+      "script": "donate.js",
+      "handler": "onRun"
+    }
+  ],
+  "menu": {
+    "title": "Stack Layout Hacks",
+    "items": [
+      "run-copy-stack-prop",
+      "run-paste-stack-prop",
+      "-",
+      "run-enable-clip-content",
+      "run-disable-clip-content",
+      "-",
+      "run-stacks-width-fill",
+      "run-stacks-width-fit",
+      "run-stacks-width-fixed",
+      "-",
+      "run-stacks-height-relative",
+      "run-stacks-height-fit",
+      "run-stacks-height-fixed",
+      "-",
+      "run-separate-hor-stacks",
+      "run-separate-ver-stacks",
+      "-",
+      "visit-store",
+      "donate-link"
+    ]
+  
+  }
+
+}

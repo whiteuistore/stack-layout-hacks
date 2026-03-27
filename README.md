@@ -1,5 +1,7 @@
 # Stack Layout Hacks for Sketch
 
+<img src="https://github.com/whiteuistore/sketch-style-matcher/blob/c8434e4084986b5eb1675aba78db402cb4e10233/assets/Plugin%20Banner.jpg" alt="Sketch Styles Auto-Matcher">
+
 **Stack Layout Hacks** is a powerful productivity plugin for Sketch (Athens release and newer) designed to bridge the gaps in the native Stack Layout implementation. It provides advanced controls for bulk-managing stack properties, deep-toggling clipping behavior, and streamlining design system workflows.
 
 ---
@@ -22,6 +24,17 @@ Quickly set Horizontal or Vertical sizing for parents and all nested children:
 ### 📦 Quick Stack Creation
 - **Separate Horizontal Stacks**: Wrap each selected object (Text, Shape, Group, or Frame) into its own individual Horizontal Stack wrapper.
 - **Separate Vertical Stacks**: Wrap objects into individual Vertical Stacks using native `flexDirection` and `axis` parameters for 100% accuracy.
+
+---
+
+## 🚀 How it works?
+
+Coming Soon
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/3bef45d5-000a-4580-b411-a19446e8bbea" width="100%" controls>
+  </video>
+</p>
 
 ---
 

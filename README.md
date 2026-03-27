@@ -1,6 +1,6 @@
 # Stack Layout Hacks for Sketch
 
-<img src="https://github.com/whiteuistore/sketch-style-matcher/blob/c8434e4084986b5eb1675aba78db402cb4e10233/assets/Plugin%20Banner.jpg" alt="Sketch Styles Auto-Matcher">
+<img src="https://github.com/whiteuistore/stack-layout-hacks/blob/a4c2d0a82e85d7f5f02df32e330250fc61564e1f/assets/banner.png" alt="Stack Layout Hacks for Sketch">
 
 **Stack Layout Hacks** is a powerful productivity plugin for Sketch (Athens release and newer) designed to bridge the gaps in the native Stack Layout implementation. It provides advanced controls for bulk-managing stack properties, deep-toggling clipping behavior, and streamlining design system workflows.
 

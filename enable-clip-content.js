@@ -98,7 +98,7 @@ if (!doc) {
       doc.selectedLayers.clear();
       
       // Changed to a native non-blocking toast notification at the bottom of the Sketch window
-      sketch.UI.message(`✅ Success: Clip Content applied to ${stats.clippedCount} layer(s). Selection cleared. Please re-select to verify.`);
+      sketch.UI.message(`✅ Success: Clip Content applied to ${stats.clippedCount} Stack(s).`);
     }
   }
 }

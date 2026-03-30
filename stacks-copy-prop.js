@@ -120,7 +120,7 @@ if (!doc) {
         pasteboard.setString_forType(payloadString, NSPasteboardTypeString);
         
         // Success Toast Notification
-        sketch.UI.message(`📋 Stack properties copied successfully! (Includes Corner Type, Spacing & Padding)`);
+        sketch.UI.message(`📋 Stack properties copied successfully!`);
         
       } catch (error) {
         showNSAlert("⚠️ Clipboard Error", "Could not write to the system clipboard.");

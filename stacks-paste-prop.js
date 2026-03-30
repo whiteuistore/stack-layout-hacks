@@ -113,7 +113,7 @@ if (!doc) {
 
         if (processedCount > 0) {
           doc.selectedLayers.clear();
-          sketch.UI.message(`✅ Applied Stack & Padding (${processedCount} layers) using MSFlexGroupLayout keys.`);
+          sketch.UI.message(`✅ Applied Stack properties!`);
         }
       }
     }

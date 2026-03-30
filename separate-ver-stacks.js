@@ -106,7 +106,7 @@ if (!doc) {
     // 3. Final feedback via toast
     if (processedCount > 0) {
       doc.selectedLayers.clear();
-      sketch.UI.message(`✅ Successfully created ${processedCount} separate Vertical Stack(s) with Native parameters.`);
+      sketch.UI.message(`✅ Successfully created ${processedCount} separate Vertical Stack(s)`);
     } else {
       showNSAlert("⚠️ Processing Failed", "Could not create vertical stacks for the selected layers.");
     }

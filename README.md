@@ -29,32 +29,36 @@ Quickly set Horizontal or Vertical sizing for parents and all nested children:
 
 ## 🚀 How it works?
 
-Copy/Paste stack layout properties
-Set the height of all elements inside the stack to Fit
-Create independent horizontal/vertical stacks
-Enable/disable stack clipping
-Set the width of all elements inside the stack to Fill
-
+### Copy/Paste stack layout properties
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/8e54da99-c6e8-429b-83d0-306474eddec8" width="100%" controls>
   </video>
 </p>
 
+### Set the height of all elements inside the stack to Fit
+
 <p align="center">
   <video src="https://github.com/user-attachments/assets/654cf6c7-45d0-484e-926c-edf292679456" width="100%" controls>
   </video>
 </p>
+
+### Create independent horizontal/vertical stacks
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/67a5138c-92e1-40d1-bd31-79122f9996fe" width="100%" controls>
   </video>
 </p>
 
+### Set the width of all elements inside the stack to Fill
+
 <p align="center">
   <video src="https://github.com/user-attachments/assets/e905a0cd-1fba-4b3c-b87e-89d40b6e4f23" width="100%" controls>
   </video>
 </p>
+
+
+### Enable/disable stack clipping
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/5ebde6eb-1195-4b7e-a0ec-cf734419e4a2" width="100%" controls>

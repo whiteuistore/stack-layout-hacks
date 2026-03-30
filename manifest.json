@@ -1,7 +1,7 @@
 {
   "name": "Stack Layout Hacks",
   "identifier": "com.whiteuistore.stack-layout-hacks",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "icon": "icon.png",
   "description": "Various scripts to easily manage and change Stacks properties in the Sketch file",
   "author": "WhiteUI.Store",
@@ -31,6 +31,11 @@
       "name": "Set the Stack Width to Fill (only for child elements)",
       "identifier": "run-stacks-width-fill",
       "script": "./stacks-width-to-fill.js"
+    },
+    {
+      "name": "Set the Stack Width to Fill (stacks and groups only)",
+      "identifier": "run-stacks-width-fill-groups",
+      "script": "./stacks-width-to-fill-groups.js"
     },
     {
       "name": "Set the Stack Width to Fit (for all elements)",
@@ -90,6 +95,7 @@
       "run-disable-clip-content",
       "-",
       "run-stacks-width-fill",
+      "run-stacks-width-fill-groups",
       "run-stacks-width-fit",
       "run-stacks-width-fixed",
       "-",

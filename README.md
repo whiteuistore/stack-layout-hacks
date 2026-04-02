@@ -99,8 +99,9 @@ Select multiple layers (e.g., several icons or text fields) and run `Create Sepa
 ## 💎 Support the Project
 
 If you find this plugin helpful, consider supporting its development:
-- **Visit our store:** [WhiteUI.Store](https://www.whiteui.store/)
-- **Donate:** [Buy Me a Coffee](https://buymeacoffee.com/whiteuistore)
+* **Visit our store:** [WhiteUI.Store](https://www.whiteui.store/)
+* **Donate:** [Buy Me a Coffee](https://buymeacoffee.com/whiteuistore)
+* **Sketch Plugins:** [See more Sketch Plugins](https://www.whiteui.store/sketch-plugins)
 
 ---
 
